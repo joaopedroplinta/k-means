@@ -11,8 +11,8 @@ Este projeto implementa o algoritmo de agrupamento K-Means para análise de dado
 ## Instalação
 
 ```bash
-git clone https://github.com/joaopedroplinta/visao-computacional.git
-cd visao-computacional/k-means
+git clone https://github.com/joaopedroplinta/k-means.git
+cd /k-means
 pip install -r requirements.txt
 ```
 
